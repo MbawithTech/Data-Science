@@ -5,7 +5,7 @@ import time
 import pandas as pd
 
 screen = Screen()
-image = "blank_states_img.gif"
+image = "https://github.com/MbawithTech/Data-Science/blob/main/blank_states_img.gif"
 screen.title("US States Game")
 # screen.bgpic(picname="blank_states_img.gif")
 screen.addshape(image)
